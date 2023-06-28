@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "footballpenaltiesBL"]
 	path = footballpenaltiesBL
 	url = https://github.com/cran/footballpenaltiesBL
-	shallow = true
-	registered = true
 [submodule "mrregression"]
 	path = mrregression
 	url = https://github.com/cran/mrregression
-	shallow = true
-	registered = true
 [submodule "RaProR"]
 	path = RaProR
 	url = https://github.com/cran/RaProR
-	shallow = true
-	registered = true
