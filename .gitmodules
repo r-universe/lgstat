@@ -8,6 +8,3 @@
 [submodule "mrregression"]
 	path = mrregression
 	url = https://github.com/cran/mrregression
-[submodule "RaProR"]
-	path = RaProR
-	url = https://github.com/cran/RaProR
